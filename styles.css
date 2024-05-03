@@ -59,7 +59,6 @@ h2 {
     color: #f5a938;
 }
 
-
 #about {
     background-color: #1e1e1e;
     padding: 20px;
@@ -77,8 +76,6 @@ h2 {
     color: #abb2bf;
     line-height: 1.6;
 }
-
-
 
 .timeline {
     list-style: none;
@@ -110,14 +107,10 @@ h2 {
     font-size: 0.9em; /* 设置事件文本字体大小 */
 }
 
-
-
 .description p {
     margin: 0;
     color: #abb2bf;
 }
-
-
 
 .portfolio {
     display: flex;
@@ -167,9 +160,6 @@ h2 {
     color: #ffffff;
 }
 
-
-
-
 .project-details {
     padding: 10px;
 }
@@ -207,4 +197,3 @@ footer {
     text-align: center;
     padding: 10px 0;
 }
-
