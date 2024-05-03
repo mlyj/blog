@@ -9,7 +9,7 @@
 
 ## 目前状态
 
-github 有点问题我在调调：[https://https://mlkf.dev.tc/](https://www.site.ac/panel/)
+github 有点问题我在调调：[https://mlkf.dev.tc/](https://www.site.ac/panel/)
 
 ## 联系方式
 
