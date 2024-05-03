@@ -13,9 +13,9 @@ github 有点问题我在调调：[https://mlkf.dev.tc/](https://www.site.ac/pan
 
 # 联系方式
 
-#邮箱：** psyke@163.com
+邮箱： psyke@163.com
 
-#微信：** tsgg021
+微信： tsgg021
 
 ### 授权许可
 
